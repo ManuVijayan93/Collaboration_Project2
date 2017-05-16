@@ -1,0 +1,8 @@
+com\niit\collaboration\backend\controller\UserRestController.class
+com\niit\collaboration\backend\dao\UserDAO.class
+com\niit\collaboration\backend\config\ApplicationContextConfig.class
+com\niit\collaboration\backend\config\WebAppConfig.class
+com\niit\collaboration\backend\model\BaseDomain.class
+com\niit\collaboration\backend\model\User.class
+com\niit\collaboration\backend\config\WebAppInitializer.class
+com\niit\collaboration\backend\daoimpl\UserDAOImpl.class
